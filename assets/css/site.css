@@ -34,6 +34,7 @@ body {
 .page-header {
   margin: 20px 0 10px;
   padding-bottom: 0px;
+  border-bottom: 1px solid #ddd;
 }
 .page-header h2 {
     font-size: 1.8em;
@@ -59,6 +60,10 @@ body {
 }
 #footer p {
   margin-top: 20px;
+}
+
+.img-cover {
+  margin-right: 8px;
 }
 
 .img-circle {
