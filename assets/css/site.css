@@ -89,3 +89,7 @@ body {
 .alert-info h1 {
   color: #fff;
 }
+
+.space-below {
+  margin-bottom: 20px;
+}
