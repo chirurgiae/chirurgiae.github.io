@@ -85,3 +85,7 @@ body {
   margin: 0;
   padding: 30px 20px;
 }
+
+.alert-info h1 {
+  color: #fff;
+}
