@@ -77,6 +77,10 @@ body {
   margin-right: auto;
 }
 
+.img-article {
+  margin-top: 20px;
+}
+
 .bq-big {
   margin: 0;
   padding: 30px 20px;
